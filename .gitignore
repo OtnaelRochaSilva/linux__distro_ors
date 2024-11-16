@@ -1,0 +1,12 @@
+# Ignora arquivos de build
+build/
+dist/
+
+# Ignora arquivos de cache
+.cache/
+
+# Ignora arquivos compactados
+*.tar.gz
+*.gz
+*.tar
+
