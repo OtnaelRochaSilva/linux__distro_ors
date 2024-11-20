@@ -1,7 +1,7 @@
 #!/bin/sh
   
   #Destination IP and Port
-  DEST_IP=150.162.203.247
+  DEST_IP=192.168.15.4
   DEST_PORT=7001
   INTERFACE="eth0"
   
